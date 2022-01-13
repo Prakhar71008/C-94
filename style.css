@@ -1,0 +1,6 @@
+body{
+    background:linear-gradient(aqua 0%, blue 100%);
+}
+#user{
+    width:45%;
+}
